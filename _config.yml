@@ -21,7 +21,7 @@ resume_contact_telephone:       "+46720712638"
 #resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Experienced Android Developer with <b>5</b> years of expertise in Android application development. I have extensively worked with <b>Kotlin</b>, <b>Jetpack Compose</b>, and <b>Java</b>. I have a strong track record in delivering high-quality, user-friendly Android applications. I am very passionate about staying abreast of the latest technologies and trends. I am a proactive problem solver, an effective communicator, and a collaborative team player who is always willing to go the extra mile to ensure project success.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
